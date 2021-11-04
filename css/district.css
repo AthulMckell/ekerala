@@ -1,0 +1,60 @@
+.alpzha img{position: static;
+    margin-top: -1%;
+    width: 1349.5px;
+    height: 400px;
+}
+#heading{
+    position: relative; 
+    border: 1px solid black;
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.p-box1{background-color: #e61d1d00;
+    /* background-image: url(../img/alpzha1.jpg); */
+    /* border: 3px solid white; */
+    width: 55.5%;
+    float: left;
+    /* margin-left: 10px; */
+    height: 28.2em;
+    padding: 5px;
+    
+    color: rgb(255, 255, 255);
+}
+.p-box1 h2{
+    text-align: center;
+}
+
+.p-box1 h5{
+    text-align: center;
+}
+
+#spotheading{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(243, 243, 226);
+}
+
+
+    /* footer */
+    .dist-footer{
+        background-color: rgba(10, 7, 7, 0.904);
+        margin-top: 2%;
+        height: 10em;
+        color: aliceblue;
+    }
+    .dist-footer h5{
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .foot{
+        margin-left:22%;
+    }
+    .cont{
+        float: left;
+        margin-left: 70%;
+        margin-top: -8%;
+    }
+   

@@ -1,0 +1,125 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* .container{
+    margin-top: 7%;
+    margin-left: 3%;
+} */
+/* .map{
+    border: 1px solid black;
+} */
+.p-box{
+    background-image: url(../img/elephant.png);
+    /* border: 3px solid white; */
+    width: 55.5%;
+    float: left;
+    /* margin-left: 10px; */
+    height: 28.2em;
+    padding: 5px;
+    background-color: #d8f7db;
+    color: rgb(247, 247, 247);
+}
+.p-box h2{
+    text-align: center;
+}
+
+.p-box h5{
+    text-align: center;
+}
+.p-box a{
+    color: rgb(177, 169, 169);
+}
+.login{
+        border: 2px solid bisque;
+        margin-left: 30%;
+        /* margin-top: 5%; */
+        margin-right: 25%;
+        padding: 20px;
+        background-color: beige;
+}
+.login h2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.login #login-button{
+    height: 1.8em;
+    width: 10em;
+    color: aliceblue;
+    background-color: dodgerblue;
+    margin-left: 36%;
+}
+.log_cont{
+    margin-left: 20%;
+}
+.log_cont input{
+    width:15em ;
+    height: 2em;
+}
+#passwd{
+    width: 15.2em;
+}
+
+/* district */
+.dist h2{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.district{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    /* width: 180px; */
+}
+.district:hover {
+    border: 1px solid rgb(29, 27, 27);
+  }
+  
+.district img {
+    width: 100%;
+    height: auto;
+  }
+  
+.desc {
+    padding: 15px;
+    text-align: center;
+    background-color: burlywood;
+  }
+  footer{
+      background-color: rgba(10, 7, 7, 0.904);
+      margin-top: 28%;
+      height: 10em;
+      color: aliceblue;
+  }
+  footer h5{
+      text-align: center;
+      font-family: 'Times New Roman', Times, serif;
+  }
+  .foot{
+      margin-left:22%;
+  }
+  .cont{
+      float: left;
+      margin-left: 70%;
+      margin-top: -8%;
+  }
+  .signup{
+      border: 1px solid black;
+      margin-top: 4%;
+      margin-left: 25%;
+      background-color: dodgerblue;
+      padding: 5%;
+  }
+  .sign-up{
+      border: 1px solid black;
+      background-color: rgb(248, 248, 248);
+      padding: 4%;
+  }
+  .signup h2{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-align: center;
+      margin-bottom: 8%;
+  }
+  .s-u-footer{
+      margin-top: 4%;
+  }
