@@ -6,6 +6,7 @@
         </title>
         <link rel="stylesheet" href="./css/style.css">
         <link rel="stylesheet" href="./css/bootstrap.min.css">
+        <script src="./js/indexsignin.js"></script>
         
     </head>
     <body>
@@ -93,11 +94,11 @@
     <!-- /map&winfo -->
     <!-- login -->
     <div id="loginform" name="loginform">
-<form action="#" class="login">
+<form action="#" class="login" onsubmit="return validate();">
   <h2>User Login</h2><br>
 <div class="log_cont">
   <label for="username">Username:</label>
-  <input type="text" placeholder="Enter the username"><br><br>
+  <input type="text" placeholder="Enter the username" id="username"><br><br>
   <label for="password" >Password:</label>
   <input type="password" placeholder="Enter the password" id="passwd"><br><br>
 </div><br>
